@@ -6,7 +6,6 @@
 
 ## Planned
 - Untitled Paper Game (Social, PVE, PVP)
-- Untitled FNAF x Black Mesa Game
 
 ## Paused
 - GSouls
