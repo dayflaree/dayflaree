@@ -3,7 +3,10 @@
 ## Active
 - Project Ordinance
 - The Joy of Creation
-- Untitled Paper Game
+
+## Planned
+- Untitled Paper Game (Social, PVE, PVP)
+- Untitled FNAF x Black Mesa Game
 
 ## Paused
 - GSouls
