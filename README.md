@@ -1,17 +1,17 @@
 # Dayflare's Projects
 
 ## Active
-- * The Joy of Creation
-- * Untitled Paper Game
+- The Joy of Creation
+- Untitled Paper Game
 
 ## Paused
-- * GSouls
-- * Half-Life Alyx: Co-Op Mod
+- GSouls
+- Half-Life Alyx: Co-Op Mod
 
 ## Cancelled
-- * DOOM: Versus
-- * Helix: Half-Life Alyx Roleplay
-- * Parallax: Half-Life Alyx Roleplay
-- * Z-HL2RP
-- * The Thing
-- * G-Crossroads
+- DOOM: Versus
+- Helix: Half-Life Alyx Roleplay
+- Parallax: Half-Life Alyx Roleplay
+- Z-HL2RP
+- The Thing
+- G-Crossroads
