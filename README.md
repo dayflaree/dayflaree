@@ -11,6 +11,7 @@
 ## Paused
 - GSouls
 - Half-Life Alyx: Co-Op Mod
+- The Rat Cave: Reimagined
 
 ## Cancelled
 - DOOM: Versus
