@@ -1,8 +1,10 @@
 # Dayflare's Projects
 
 ## Active
+- The Rat Cave: Reimagined
+- C4rvey's Carnival
+- THE DIRECTIVE
 - Project Ordinance
-- Untitled Ordinance Spin-Off
 - The Joy of Creation
 
 ## Planned
@@ -11,7 +13,6 @@
 ## Paused
 - GSouls
 - Half-Life Alyx: Co-Op Mod
-- The Rat Cave: Reimagined
 
 ## Cancelled
 - DOOM: Versus
