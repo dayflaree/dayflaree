@@ -5,7 +5,7 @@
 - C4rvey's Carnival
 - THE DIRECTIVE
 - Project Ordinance
-- The Joy of Creation
+- The Joy of Creation (GMOD)
 
 ## Planned
 - Untitled Paper Game (Social, PVE, PVP)
