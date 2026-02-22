@@ -2,15 +2,13 @@
 
 ## Active
 - The Rat Cave: Reimagined
-- C4rvey's Carnival
-- THE DIRECTIVE
-- Project Ordinance
-- The Joy of Creation (GMOD)
+- Discovery Island: Underground
 
 ## Planned
 - Untitled Paper Game (Social, PVE, PVP)
 
 ## Paused
+- The Joy of Creation (GMOD)
 - GSouls
 - Half-Life Alyx: Co-Op Mod
 
