@@ -1,8 +1,8 @@
 # Dayflare's Projects
 
 ## Active
-- The Rat Cave: Reimagined
-- Discovery Island: Underground
+- SCP Unity: Containment Breach
+- Project Ordinance
 
 ## Planned
 - Untitled Paper Game (Social, PVE, PVP)
@@ -11,6 +11,8 @@
 - The Joy of Creation (GMOD)
 - GSouls
 - Half-Life Alyx: Co-Op Mod
+- The Rat Cave: Reimagined
+- Discovery Island: Underground
 
 ## Cancelled
 - Husk Engine
