@@ -1,13 +1,13 @@
 # Dayflare's Projects
 
 ## Active
-- SCP Unity: Containment Breach
-- Project Ordinance
+- 
 
 ## Planned
-- Untitled Paper Game (Social, PVE, PVP)
+- 
 
 ## Paused
+- Project Ordinance
 - The Joy of Creation (GMOD)
 - GSouls
 - Half-Life Alyx: Co-Op Mod
