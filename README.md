@@ -1,20 +1,20 @@
 # Dayflare's Projects
 
 ## Active
-- 
+- The Directive
+- C4rvey's Carnival
+- Half-Life Alyx: Co-Op Mod
 
 ## Planned
-- 
-
-## Paused
-- Project Ordinance
-- The Joy of Creation (GMOD)
-- GSouls
-- Half-Life Alyx: Co-Op Mod
-- The Rat Cave: Reimagined
 - Discovery Island: Underground
 
+## Paused
+- The Rat Cave: Reimagined
+
 ## Cancelled
+- The Joy of Creation (GMOD)
+- GSouls
+- Project Ordinance
 - Husk Engine
 - DOOM: Versus
 - Helix: Half-Life Alyx Roleplay
