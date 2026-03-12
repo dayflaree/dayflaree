@@ -9,12 +9,12 @@
 - Discovery Island: Underground
 
 ## Paused
+- Project Ordinance
 - The Rat Cave: Reimagined
 
 ## Cancelled
 - The Joy of Creation (GMOD)
 - GSouls
-- Project Ordinance
 - Husk Engine
 - DOOM: Versus
 - Helix: Half-Life Alyx Roleplay
@@ -33,7 +33,7 @@
 
 # Archives
 ## Garry's Mod
-- Project Ordinance - https://github.com/dayflaree/Project-Ordinance
+- Project Ordinance (Privated) - https://github.com/dayflaree/Project-Ordinance
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
 - Helix: Half-Life Alyx Roleplay - https://github.com/dayflaree/ixhlarp
