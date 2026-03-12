@@ -9,10 +9,10 @@
 - Discovery Island: Underground
 
 ## Paused
-- Project Ordinance
 - The Rat Cave: Reimagined
 
 ## Cancelled
+- Project Ordinance
 - The Joy of Creation (GMOD)
 - GSouls
 - Husk Engine
