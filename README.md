@@ -36,7 +36,7 @@
 - Project Ordinance (Privated) - https://github.com/dayflaree/Project-Ordinance
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
-- Helix: Half-Life Alyx Roleplay - https://github.com/dayflaree/ixhlarp
+- Helix: Half-Life Alyx Roleplay (Privated) - https://github.com/dayflaree/ixhlarp
 - GSouls - https://github.com/dayflaree/gsouls
 - The Joy of Creation - https://github.com/dayflaree/joyofcreation
 - FNaF World - https://github.com/dayflaree/FNaF-World
