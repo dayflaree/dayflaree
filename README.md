@@ -1,6 +1,7 @@
 # Dayflare's Projects
 
 ## Active
+- Project Ordinance (2026)
 - The Directive
 - C4rvey's Carnival
 - Half-Life Alyx: Co-Op Mod
@@ -12,7 +13,7 @@
 - The Rat Cave: Reimagined
 
 ## Cancelled
-- Project Ordinance
+- Project Ordinance (2025)
 - The Joy of Creation (GMOD)
 - GSouls
 - Husk Engine
