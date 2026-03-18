@@ -6,6 +6,7 @@
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
+- Stalker: Reborn
 - Discovery Island: Underground
 
 ## Paused
