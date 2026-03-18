@@ -2,8 +2,7 @@
 
 ## Active
 - Project Ordinance (2026)
-- The Directive
-- C4rvey's Carnival
+- Paper Friends
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
