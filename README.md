@@ -1,15 +1,15 @@
 # Dayflare's Projects
 
 ## Active
-- Project Ordinance (2026)
-- Paper Friends
+- Project Ordinance (2026)\
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
-- Stalker: Reborn
+- PROJECT THETA
 - Discovery Island: Underground
 
 ## Paused
+- Paper Friends
 - The Rat Cave: Reimagined
 
 ## Cancelled
