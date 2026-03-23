@@ -2,7 +2,7 @@
 
 ## Active
 - Oblitus: The Forest
-- Project Ordinance (2026)\
+- Project Ordinance (2026)
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
