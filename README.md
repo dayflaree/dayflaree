@@ -1,11 +1,11 @@
 # Dayflare's Projects
 
 ## Active
-- Oblitus: The Forest
 - Project Ordinance (2026)
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
+- Oblitus: The Forest
 - Discovery Island: Underground
 
 ## Paused
