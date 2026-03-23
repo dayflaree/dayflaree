@@ -1,11 +1,11 @@
 # Dayflare's Projects
 
 ## Active
+- Oblitus
 - Project Ordinance (2026)\
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
-- PROJECT THETA
 - Discovery Island: Underground
 
 ## Paused
