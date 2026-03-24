@@ -7,6 +7,7 @@
 
 ## Planned
 - Discovery Island: Underground
+- Husk Protocol
 
 ## Paused
 - Paper Friends
