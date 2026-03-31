@@ -16,6 +16,17 @@
 - Dungeon Crawler
 
 # Archives
+## Games
+- Home Shelter - https://github.com/dayflaree/Home-Shelter
+- Dungeon Crawler - https://github.com/dayflaree/DungeonCrawler
+- Husk Engine - https://github.com/dayflaree/huskengine
+
+## Websites
+- Portfolio - https://github.com/dayflaree/Portfolio
+- Asphodel Park - https://github.com/dayflaree/asphodel-park
+- SCP: Enigma - https://github.com/dayflaree/EnigmaWeb
+- Dead Space Roleplay - https://github.com/dayflaree/DSWeb
+
 ## Garry's Mod
 - Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
@@ -37,14 +48,3 @@
 - Paper Friends
 - DOOM: Versus
 - Z-HL2RP
-
-## Games
-- Home Shelter - https://github.com/dayflaree/Home-Shelter
-- Dungeon Crawler - https://github.com/dayflaree/DungeonCrawler
-- Husk Engine - https://github.com/dayflaree/huskengine
-
-## Websites
-- Portfolio - https://github.com/dayflaree/Portfolio
-- Asphodel Park - https://github.com/dayflaree/asphodel-park
-- SCP: Enigma - https://github.com/dayflaree/EnigmaWeb
-- Dead Space Roleplay - https://github.com/dayflaree/DSWeb
