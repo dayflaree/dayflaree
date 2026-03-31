@@ -16,7 +16,7 @@
 - Dungeon Crawler
 
 # Archives
-## Garry's Mod - I am no longer active in GMod
+## Garry's Mod
 - Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
