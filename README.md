@@ -1,20 +1,19 @@
 # Dayflare's Projects
 
 ## Active
-- oblitus: THE FOREST
-- Project Ordinance (2026)
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
+- oblitus: THE FOREST
 - Discovery Island: Underground
 - Husk Protocol
 
 ## Paused
-- Paper Friends
 - The Rat Cave: Reimagined
 
 ## Cancelled
-- Project Ordinance (2025)
+- Paper Friends
+- Project Ordinance
 - The Joy of Creation (GMOD)
 - GSouls
 - Husk Engine
