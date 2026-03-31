@@ -3,13 +3,13 @@
 ## Active
 - Half-Life Alyx: Co-Op Mod
 
+## Paused
+- The Rat Cave: Reimagined
+
 ## Planned
 - oblitus: THE FOREST
 - Discovery Island: Underground
 - Husk Protocol
-
-## Paused
-- The Rat Cave: Reimagined
 
 ## Cancelled
 - Paper Friends
