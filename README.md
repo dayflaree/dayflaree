@@ -12,28 +12,11 @@
 - Husk Protocol
 
 ## Cancelled
-- Paper Friends
-- Project Ordinance
-- The Joy of Creation (GMOD)
-- GSouls
 - Husk Engine
-- DOOM: Versus
-- Helix: Half-Life Alyx Roleplay
-- Parallax: Half-Life Alyx Roleplay
-- Z-HL2RP
-- Half-Life: Escape
-- Black Mesa: Deathmatch (GMOD)
-- Ravenholm Roleplay
-- The Thing
 - Dungeon Crawler
-- Catalyst Roleplay
-- Project Paragon
-- Parallax: Raisibng the Bar Roleplay
-- Helix: Raising the Bar Roleplay
-- G-Crossroads
 
 # Archives
-## Garry's Mod
+## Garry's Mod - I am no longer active in GMod
 - Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
@@ -51,6 +34,9 @@
 - Helix: Project Paragon - https://github.com/dayflaree/projectparagon
 - GCrossroads - https://github.com/dayflaree/gcrossroads
 - Helix: Catalyst Roleplay - https://github.com/dayflaree/catalyst-roleplay
+- Paper Friends
+- DOOM: Versus
+- Z-HL2RP
 
 ## Games
 - Home Shelter - https://github.com/dayflaree/Home-Shelter
