@@ -1,13 +1,13 @@
 # Dayflare's Projects
 
 ## Active
+- S&Box Half-Life: Alyx Importer
 - Half-Life Alyx: Co-Op Mod
 - The Rat Cave: Reimagined
 
 ## Paused
 
 ## Planned
-- S&Box Half-Life: Alyx Importer
 - Discovery Island: Underground
 - Husk Protocol
 
