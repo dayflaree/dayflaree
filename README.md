@@ -2,12 +2,12 @@
 
 ## Active
 - Half-Life Alyx: Co-Op Mod
-
-## Paused
 - The Rat Cave: Reimagined
 
+## Paused
+
 ## Planned
-- oblitus: THE FOREST
+- S&Box Half-Life: Alyx Importer
 - Discovery Island: Underground
 - Husk Protocol
 
