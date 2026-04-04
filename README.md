@@ -3,9 +3,9 @@
 ## Active
 - S&Box Half-Life: Alyx Importer
 - Half-Life Alyx: Co-Op Mod
-- The Rat Cave: Reimagined
 
 ## Paused
+- The Rat Cave: Reimagined
 
 ## Planned
 - Discovery Island: Underground
