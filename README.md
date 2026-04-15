@@ -9,6 +9,7 @@
 - Half-Life Alyx: Co-Op Mod
 
 ## Planned
+- Project Lovecraft
 - Husk Protocol
 
 ## Cancelled
