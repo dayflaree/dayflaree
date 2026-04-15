@@ -1,20 +1,20 @@
 # Dayflare's Projects
 
 ## Active
-- Untitled Aftonbuilt (S&Box Game)
-- S&Box Half-Life: Alyx Importer
-- Half-Life Alyx: Co-Op Mod
+- Discovery Island: Underground
 
 ## Paused
 - The Rat Cave: Reimagined
+- S&Box Half-Life: Alyx Importer
+- Half-Life Alyx: Co-Op Mod
 
 ## Planned
-- Discovery Island: Underground
 - Husk Protocol
 
 ## Cancelled
 - Husk Engine
 - Dungeon Crawler
+- Untitled Aftonbuilt (S&Box Game)
 
 # Archives
 ## Games
