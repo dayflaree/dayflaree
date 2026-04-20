@@ -12,6 +12,7 @@
 ## Planned
 - Project Lovecraft
 - Husk Protocol
+- oblitus: THE FOREST
 
 ## Cancelled
 - Husk Engine
