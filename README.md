@@ -1,9 +1,10 @@
 # Dayflare's Projects
 
 ## Active
-- Discovery Island: Underground
+- Voxel Engine
 
 ## Paused
+- Discovery Island: Underground
 - The Rat Cave: Reimagined
 - S&Box Half-Life: Alyx Importer
 - Half-Life Alyx: Co-Op Mod
