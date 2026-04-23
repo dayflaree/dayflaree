@@ -2,12 +2,12 @@
 
 ## Active
 - Voxel Engine
+- Half-Life Alyx: Co-Op Mod
 
 ## Paused
 - Discovery Island: Underground
 - The Rat Cave: Reimagined
 - S&Box Half-Life: Alyx Importer
-- Half-Life Alyx: Co-Op Mod
 
 ## Planned
 - Project Lovecraft
