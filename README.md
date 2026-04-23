@@ -1,16 +1,15 @@
 # Dayflare's Projects
 
 ## Active
-- Voxel Engine
 - Half-Life Alyx: Co-Op Mod
+- Voxel Engine
 
 ## Paused
+- S&Box Half-Life: Alyx Importer
 - Discovery Island: Underground
 - The Rat Cave: Reimagined
-- S&Box Half-Life: Alyx Importer
 
 ## Planned
-- Project Lovecraft
 - Husk Protocol
 - oblitus: THE FOREST
 
