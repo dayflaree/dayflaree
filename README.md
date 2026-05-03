@@ -2,10 +2,9 @@
 
 ## Active
 - Half-Life Alyx: Co-Op Mod
-- Voxel Engine
+- S&Box Half-Life: Alyx Importer
 
 ## Paused
-- S&Box Half-Life: Alyx Importer
 - Discovery Island: Underground
 - The Rat Cave: Reimagined
 
@@ -14,6 +13,7 @@
 - oblitus: THE FOREST
 
 ## Cancelled
+- Voxel Engine
 - Husk Engine
 - Dungeon Crawler
 - Untitled Aftonbuilt (S&Box Game)
