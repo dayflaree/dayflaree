@@ -25,7 +25,7 @@
 - Husk Engine - https://github.com/dayflaree/huskengine
 
 ## Websites
-- Portfolio - https://github.com/dayflaree/Portfolio
+- Portfolio (Outdated) - https://github.com/dayflaree/Portfolio
 - Asphodel Park - https://github.com/dayflaree/asphodel-park
 - SCP: Enigma - https://github.com/dayflaree/EnigmaWeb
 - Dead Space Roleplay - https://github.com/dayflaree/DSWeb
