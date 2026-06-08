@@ -2,9 +2,9 @@
 
 ## Active
 - Project Transcend
+- Half-Life Alyx: Co-Op Mod
 
 ## Paused
-- Half-Life Alyx: Co-Op Mod
 - S&Box Half-Life: Alyx Importer
 
 ## Planned
