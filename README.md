@@ -2,14 +2,14 @@
 
 ## Active
 - Project Transcend
-- Half-Life Alyx: Co-Op Mod
+- oblitus: THE FOREST
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
+- Half-Life Alyx: Co-Op Mod
 
 ## Planned
 - Husk Protocol
-- oblitus: THE FOREST
 
 ## Cancelled
 - Voxel Engine
@@ -48,6 +48,3 @@
 - Helix: Project Paragon - https://github.com/dayflaree/projectparagon
 - GCrossroads - https://github.com/dayflaree/gcrossroads
 - Helix: Catalyst Roleplay - https://github.com/dayflaree/catalyst-roleplay
-- Paper Friends
-- DOOM: Versus
-- Z-HL2RP
