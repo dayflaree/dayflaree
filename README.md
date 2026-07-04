@@ -1,8 +1,8 @@
 # Dayflare's Projects
 
 ## Active
+- Hammer++ Auto Tools
 - Project Transcend
-- oblitus: THE FOREST
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
@@ -10,6 +10,7 @@
 
 ## Planned
 - Husk Protocol
+- oblitus: THE FOREST
 
 ## Cancelled
 - Voxel Engine
