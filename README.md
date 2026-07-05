@@ -1,7 +1,6 @@
 # Dayflare's Projects
 
 ## Active
-- Hammer++ Auto Tools
 - Project Transcend
 
 ## Paused
