@@ -1,8 +1,7 @@
 # Dayflare's Projects
 
 ## Active
-- Dead By Daylight (gDBD)
-- Project Transcend
+- 
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
