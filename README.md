@@ -11,9 +11,6 @@
 - Husk Protocol
 - oblitus: THE FOREST
 
-## Cancelled
-- 
-
 # Archives
 ## Games
 - The Rat Cave: Reimagined - https://github.com/dayflaree/RatCave
