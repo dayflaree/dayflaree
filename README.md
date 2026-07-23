@@ -34,6 +34,7 @@
 ## Garry's Mod
 - Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
+- Dead by Daylight - https://github.com/dayflaree/dbd
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
 - GSouls - https://github.com/dayflaree/gsouls
 - The Joy of Creation - https://github.com/dayflaree/joyofcreation
