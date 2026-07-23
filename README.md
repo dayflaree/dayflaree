@@ -25,6 +25,7 @@
 - Dead Space Roleplay - https://github.com/dayflaree/DSWeb
 
 ## Garry's Mod
+- Project Transcend - https://github.com/dayflaree/ixhlarp
 - Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - Dead by Daylight - https://github.com/dayflaree/dbd
