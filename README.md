@@ -1,7 +1,8 @@
 # Dayflare's Projects
 
 ## Active
-- Mr. X in Half-Life 2
+- Soulsborne: Source
+- Ravenholm Roleplay
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
