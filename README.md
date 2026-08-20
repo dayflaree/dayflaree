@@ -1,8 +1,7 @@
 # Dayflare's Projects
 
 ## Active
-- Soulsborne: Source
-- Ravenholm Roleplay
+- Source Weaver
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
