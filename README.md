@@ -25,21 +25,13 @@
 - Dead Space Roleplay - https://github.com/dayflaree/DSWeb
 
 ## Garry's Mod
-- Project Transcend - https://github.com/dayflaree/ixhlarp
-- Project Ordinance - https://github.com/dayflaree/bmrp
 - Clockwork Master - https://github.com/dayflaree/Clockwork-Master
 - Dead by Daylight - https://github.com/dayflaree/dbd
 - SCP Unity - https://github.com/dayflaree/SCP-Unity
 - GSouls - https://github.com/dayflaree/gsouls
 - The Joy of Creation - https://github.com/dayflaree/joyofcreation
 - FNaF World - https://github.com/dayflaree/FNaF-World
-- Parallax: Raising the Bar Redux Roleplay - https://github.com/dayflaree/parallax-rtbrrp
 - The Thing - https://github.com/dayflaree/thething
-- Ravenholm Roleplay - https://github.com/dayflaree/ravenholmrp
 - Half-Life: Escape - https://github.com/dayflaree/Half-Life-Escape
 - Black Mesa: Deathmatch - https://github.com/dayflaree/Black-Mesa-Deathmatch
-- Parallax: Monolith UI - https://github.com/dayflaree/monolith-ui
-- Helix: Raising the Bar Redux Roleplay - https://github.com/dayflaree/ixrtbrrp
-- Helix: Project Paragon - https://github.com/dayflaree/projectparagon
 - GCrossroads - https://github.com/dayflaree/gcrossroads
-- Helix: Catalyst Roleplay - https://github.com/dayflaree/catalyst-roleplay
