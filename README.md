@@ -1,7 +1,8 @@
 # Dayflare's Projects
 
 ## Active
-- Source Weaver
+- Sciomniaphobia
+- Shadow of the Colossus Port
 
 ## Paused
 - S&Box Half-Life: Alyx Importer
