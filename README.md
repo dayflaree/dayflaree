@@ -1,17 +1,13 @@
 # Dayflare's Projects
 
 ## Active
-- Sciomniaphobia
-- Shadow of the Colossus Port
+- Scream: prototype
 
 ## Paused
-- S&Box Half-Life: Alyx Importer
-- Half-Life Alyx: Co-Op Mod
 
 ## Planned
 - Husk Protocol
 - oblitus: THE FOREST
-- Untitled Aftonbuilt
 
 # Archives
 ## Games
